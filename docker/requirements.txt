@@ -1,0 +1,15 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.2.2+cpu 
+torchvision==0.17.2+cpu 
+torchaudio==2.2.2+cpu
+pandas
+opencv-python
+matplotlib
+tqdm
+transformers
+monai
+einops
+timm
+connected-components-3d
+omegaconf
+scipy

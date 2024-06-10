@@ -1,0 +1,1 @@
+python3 infer.py  -i /workspace/inputs -o /workspace/outputs
