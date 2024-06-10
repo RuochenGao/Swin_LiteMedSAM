@@ -7,7 +7,6 @@
 *.npz
 *.csv
 *.log
-*.png
 *.pth
 *.onnx
 *.tar.gz
