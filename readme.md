@@ -17,11 +17,9 @@
 - Donwload the [docker image](https://drive.google.com/file/d/1UnDZaRk6vtrzR6BJDBxDA7m4B3HGpxjg/view?usp=sharing) and load it `docker load -i lkeb.tar.gz` for quick inference
 ## Usage
 
-1. Data Preparation
+1. Data
 
-    - Download training data from [challenge website]((https://www.codabench.org/competitions/1847/))
-
-    The training data contained 11 modalities, including Computed Tomography (CT), Magnetic Resonance Imaging (MRI), Positron Emission Tomography (PET), X-ray, ultrasound, mammography, Optical Coherence Tomography (OCT), endoscopy, fundus, dermoscopy, and microscopy.
+    Download training npz data from [challenge website](https://www.codabench.org/competitions/1847/), the training data contained 11 modalities, including CT, MRI, PET, X-Ray, ultrasound, mammography, OCT, endoscopy, fundus, dermoscopy, and microscopy.
 
 2. Train
     - Distill encoder

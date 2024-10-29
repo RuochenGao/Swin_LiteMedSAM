@@ -13,7 +13,7 @@
 eval/
 work_dir/*
 script/
-docker/
+docker/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
