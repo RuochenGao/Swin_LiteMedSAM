@@ -1,7 +1,7 @@
 ## [Swin-LiteMedSAM] Submission to the [SEGMENT ANYTHING IN MEDICAL IMAGES ON LAPTOP](https://www.codabench.org/competitions/1847/) 2024 CVPR challenge [Teamname: lkeb]
 
 <p align="center">
-  <img src="asset/Swin-LiteMedSAM.png" width="800"/>
+  <img src="asset/Swin-LiteMedSAM.png" width="600"/>
 </p>
 
 
@@ -54,6 +54,15 @@
     ```
     chmod -R 777 ./*
     ```
-
-
+## Reference
+```
+@incollection{gao2024swin,
+  title={Swin-LiteMedSAM: A Lightweight Box-Based Segment Anything Model for Large-Scale Medical Image Datasets},
+  author={Gao, Ruochen and Lyu, Donghang and Staring, Marius},
+  booktitle={Medical Image Segmentation Challenge},
+  pages={70--82},
+  year={2024},
+  publisher={Springer}
+}
+```
 
